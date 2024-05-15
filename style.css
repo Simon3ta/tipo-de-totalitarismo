@@ -18,6 +18,12 @@ body{
 ul{
     list-style-type: none;
 }
+.banderas{
+    display: block;
+}
+h1{
+    text-align: center;
+}
 
 
 
@@ -102,7 +108,7 @@ ul{
         transition: 0.3s ease;
     }
     .banderas{
-        display: inline;
+        display: block;
         align-items: end;
     }
 
